@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.crm.vtiger.practice.ParametersTest" duration-ms="83058" started-at="2022-03-23T14:49:25 IST" finished-at="2022-03-23T14:50:48 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="83058" started-at="2022-03-23T14:49:25 IST" finished-at="2022-03-23T14:50:48 IST">
+      <class name="com.crm.vtiger.practice.ParametersTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:com.crm.vtiger.practice.ParametersTest@5383967b]" name="getData" duration-ms="83020" started-at="2022-03-23T14:49:25 IST" finished-at="2022-03-23T14:50:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- com.crm.vtiger.practice.ParametersTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.crm.vtiger.practice.ParametersTest -->
+</testng-results>
